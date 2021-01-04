@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2> Welcome! I'm Guizafa.</h2>
 
-<!--
-**guizafa/guizafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> ℹ️ &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies.
+- 🎓 &nbsp; I studied Computer Science at <a href="https://unip.br/">UNIP</a>.
+- 🌱 &nbsp; Learning more about  SQL,C# and FiveM Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br/>
+
+<h3> ⚙️  GitHub Analytics </h3>
+  
+<a href="https://github.com/nikit0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guizafa&theme=react&show_icons=true" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizafa&theme=react&layout=compact" style"max-width: 100%;" />
+</a>
+
+<br/>
