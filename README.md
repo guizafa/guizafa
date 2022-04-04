@@ -14,6 +14,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)
+  ![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -24,7 +25,7 @@
 
 <h3> ⚙️  GitHub Analytics </h3>
   
-<a href="https://github.com/nikit0">
+<a href="https://github.com/guizafa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guizafa&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizafa&theme=react&layout=compact" style"max-width: 100%;" />
 </a>
