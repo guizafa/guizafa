@@ -1,5 +1,8 @@
 <h2> Welcome! I'm Guizafa.</h2>
 
+  ## 👤 Contacts
+- Discord **guizafa#6064**
+- E-mail : **guizafandroid@gmail.com**
 <h3> ℹ️ &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
