@@ -18,6 +18,7 @@
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)
   ![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=333333)
+  ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
